@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "first_name": "Monique",
+    "last_name": "Mclean",
+    "gender": "FEMALE",
+    "birth_date": "2007-06-10T09:58:17 -06:-30",
+    "country": "Somalia",
+    "city": "Chapin",
+    "address": "Robert Street"
+  },
+  {
+    "id": 2,
+    "first_name": "Mueller",
+    "last_name": "Huffman",
+    "gender": "MALE",
+    "birth_date": "2003-05-01T12:28:37 -06:-30",
+    "country": "Ghana",
+    "city": "Henrietta",
+    "address": "Columbia Street"
+  },
+  {
+    "id": 3,
+    "first_name": "Felicia",
+    "last_name": "Carroll",
+    "gender": "FEMALE",
+    "birth_date": "2020-06-21T07:10:27 -06:-30",
+    "country": "Saint Vincent and The Grenadines",
+    "city": "Ripley",
+    "address": "Elm Avenue"
+  },
+  {
+    "id": 4,
+    "first_name": "Jaclyn",
+    "last_name": "Guerra",
+    "gender": "FEMALE",
+    "birth_date": "1999-09-13T12:17:29 -06:-30",
+    "country": "Taiwan",
+    "city": "Crown",
+    "address": "Auburn Place"
+  },
+  {
+    "id": 5,
+    "first_name": "Day",
+    "last_name": "Chavez",
+    "gender": "MALE",
+    "birth_date": "2020-10-06T01:49:20 -06:-30",
+    "country": "Bangladesh",
+    "city": "Dubois",
+    "address": "Vermont Court"
+  },
+  {
+    "id": 6,
+    "first_name": "Marisol",
+    "last_name": "Holland",
+    "gender": "FEMALE",
+    "birth_date": "2010-08-08T06:52:02 -06:-30",
+    "country": "Antigua and Barbuda",
+    "city": "Bath",
+    "address": "Danforth Street"
+  },
+  {
+    "id": 7,
+    "first_name": "Hawkins",
+    "last_name": "Slater",
+    "gender": "MALE",
+    "birth_date": "2003-03-28T05:34:34 -06:-30",
+    "country": "Dominican Republic",
+    "city": "Cherokee",
+    "address": "Mill Lane"
+  },
+  {
+    "id": 8,
+    "first_name": "Cantu",
+    "last_name": "Rollins",
+    "gender": "MALE",
+    "birth_date": "2010-03-29T06:13:24 -06:-30",
+    "country": "Central African Republic",
+    "city": "Fruitdale",
+    "address": "Beekman Place"
+  },
+  {
+    "id": 9,
+    "first_name": "Marsh",
+    "last_name": "Fuentes",
+    "gender": "MALE",
+    "birth_date": "2021-08-18T10:38:32 -06:-30",
+    "country": "French Southern Territories",
+    "city": "Crisman",
+    "address": "Corbin Place"
+  },
+  {
+    "id": 10,
+    "first_name": "Jenna",
+    "last_name": "Morton",
+    "gender": "FEMALE",
+    "birth_date": "2002-08-22T02:13:00 -06:-30",
+    "country": "Togo",
+    "city": "Hampstead",
+    "address": "Locust Street"
+  }
+]

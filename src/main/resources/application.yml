@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: spring-cache-ignite
+  cache:
+    type: jcache
+    jcache:
+      provider: org.apache.ignite.cache.CachingProvider
+      config: classpath:cache/example-ignite.xml
+  jdbc:
+    hostname: vlab045701.dom045700.lab
+    database: cache_ignite
+    username: dbadmin
+    password: Atlas@123
+
+server:
+  port: 8090

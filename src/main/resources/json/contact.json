@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "type": "EMAIL",
+    "location": "Somalia",
+    "person_id": 1
+  },
+  {
+    "id": 2,
+    "type": "MOBILE",
+    "location": "Ghana",
+    "person_id": 2
+  },
+  {
+    "id": 3,
+    "type": "PHONE",
+    "location": "Saint Vincent and The Grenadines",
+    "person_id": 3
+  },
+  {
+    "id": 4,
+    "type": "PHONE",
+    "location": "Taiwan",
+    "person_id": 4
+  },
+  {
+    "id": 5,
+    "type": "SKYPE",
+    "location": "Bangladesh",
+    "person_id": 5
+  },
+  {
+    "id": 6,
+    "type": "SKYPE",
+    "location": "Antigua and Barbuda",
+    "person_id": 6
+  },
+  {
+    "id": 7,
+    "type": "EMAIL",
+    "location": "Dominican Republic",
+    "person_id": 7
+  },
+  {
+    "id": 8,
+    "type": "EMAIL",
+    "location": "Central African Republic",
+    "person_id": 8
+  },
+  {
+    "id": 9,
+    "type": "EMAIL",
+    "location": "French Southern Territories",
+    "person_id": 9
+  },
+  {
+    "id": 10,
+    "type": "MOBILE",
+    "location": "Togo",
+    "person_id": 10
+  }
+]
